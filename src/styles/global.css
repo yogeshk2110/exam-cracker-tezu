@@ -1,0 +1,23 @@
+:root {
+  color-scheme: light;
+  font-family: 'Inter', sans-serif;
+}
+
+html, body, #root {
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+  background: #f4f7fb;
+  color: #111827;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
